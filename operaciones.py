@@ -16,8 +16,8 @@ def division(a, b):
 print("Selecciona operación:")
 print("1. Suma")
 print("2. Resta")
-print("3. Multiplicación")
-print("4. División")
+print("3. Multipli")
+print("4. Di")
 
 eleccion = input("Ingresa elección (1/2/3/4): ")
 
